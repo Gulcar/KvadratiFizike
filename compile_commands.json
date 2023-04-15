@@ -1,0 +1,16 @@
+[
+  {
+    "arguments": [
+      "/usr/bin/g++",
+      "-c",
+      "-std=c++17",
+      "-Wall",
+      "-o",
+      "kvadrati",
+      "Main.cpp"
+    ],
+    "directory": "/home/gal/dev/kvadrati-fizike",
+    "file": "/home/gal/dev/kvadrati-fizike/Main.cpp",
+    "output": "/home/gal/dev/kvadrati-fizike/kvadrati"
+  }
+]
